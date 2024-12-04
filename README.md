@@ -3,6 +3,7 @@
 Sanctuary hotel template design made for improvement using UX, color palettes and fonts to generate harmony.
 The goal was to make a Website of a old hotel, so I used CMU Serif font style to give a old aspect, making it look like the hotel exists for a long time. 
 The color palette used was based on the background, looking visually harmonic.
+You can access the design clicking in this link : https://sanctuaryhotel.my.canva.site/
 
 ![image](https://github.com/user-attachments/assets/0f901d45-fab0-40d8-8e5c-e0c38ab52ad1)
 
